@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoose": "^8.15.1"
+  },
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "DevTinder app",
+  "main": "./src/app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sahalpmk/devTinder.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sahalpmk/devTinder/issues"
+  },
+  "homepage": "https://github.com/sahalpmk/devTinder#readme"
+}
